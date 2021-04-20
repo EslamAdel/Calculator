@@ -8,5 +8,5 @@ A simple C++ calculator app with CMake
 $ mkdir build
 $ cd build 
 $ cmake .. 
-$ make $ 
+$ make 
 ```
